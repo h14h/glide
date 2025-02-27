@@ -16,3 +16,4 @@ Here is a (subject to change) list of core features I intend to implement:
 - [ ] Mark a task as "zero resistance" or "re:zero"
 - [ ] Automatically "un-zero" uncompleted "re:zero" tasks after some interval
 - [ ] Enforce reading the whoe list when marking tasks as "re:zero"
+- [ ] Task descriptions for adding additional context
