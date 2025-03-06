@@ -27,3 +27,4 @@ I want to implement:
 - [ ] A quick "Re-surface" action for bumping a task to the top of the list
 - [ ] Add a basic tagging feature
 - [ ] Give tasks an "action type" (e.g. "Add to KMS" or "Break down")
+- [ ] Raycast integration (quick focus on top task)
