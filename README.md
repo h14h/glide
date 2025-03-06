@@ -17,3 +17,13 @@ Here is a (subject to change) list of core features I intend to implement:
 - [ ] Automatically "un-zero" uncompleted "re:zero" tasks after some interval
 - [ ] Enforce reading the whoe list when marking tasks as "re:zero"
 - [ ] Task descriptions for adding additional context
+
+### Additional (optional) Ideas
+
+This is a dumping ground for other random ideas I have, which I'm not certain
+I want to implement:
+
+- [ ] Allow tasks to specify a filterable "Domain"
+- [ ] A quick "Re-surface" action for bumping a task to the top of the list
+- [ ] Add a basic tagging feature
+- [ ] Customize a tasks "action type" in some way (e.g. "Add to KMS")
