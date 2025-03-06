@@ -26,4 +26,4 @@ I want to implement:
 - [ ] Allow tasks to specify a filterable "Domain"
 - [ ] A quick "Re-surface" action for bumping a task to the top of the list
 - [ ] Add a basic tagging feature
-- [ ] Customize a tasks "action type" in some way (e.g. "Add to KMS")
+- [ ] Give tasks an "action type" (e.g. "Add to KMS" or "Break down")
