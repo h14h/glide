@@ -28,3 +28,4 @@ I want to implement:
 - [ ] Add a basic tagging feature
 - [ ] Give tasks an "action type" (e.g. "Add to KMS" or "Break down")
 - [ ] Raycast integration (quick focus on top task)
+- [ ] Bring in some Anki-like spaced repetition feature
