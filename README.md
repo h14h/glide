@@ -29,3 +29,4 @@ I want to implement:
 - [ ] Give tasks an "action type" (e.g. "Add to KMS" or "Break down")
 - [ ] Raycast integration (quick focus on top task)
 - [ ] Bring in some Anki-like spaced repetition feature
+- [ ] Sync "zero resistance" items with external todo system (e.g. Apple Notes)
